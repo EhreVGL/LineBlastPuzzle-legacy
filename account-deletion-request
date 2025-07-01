@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Account Deletion Request</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    a {
+      color: #4a90e2;
+    }
+  </style>
+</head>
+<body>
+  <h1>Account Deletion - My Puzzle Game</h1>
+  <p>
+    To request deletion of your account and associated data, please send an email to:
+    <strong>delete@yourcompany.com</strong>
+  </p>
+  <p>
+    Include the email address you used in the app so we can identify your account.
+  </p>
+  <h2>Data Handling</h2>
+  <ul>
+    <li>Your profile and saved progress will be permanently deleted.</li>
+    <li>Purchase history records may be retained for up to 180 days to comply with legal obligations.</li>
+  </ul>
+</body>
+</html>
